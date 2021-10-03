@@ -1,4 +1,4 @@
-﻿![cover](https://github.com/gabrielvoissiere/gabrielvoissiere/blob/main/assets/cover.png)
+﻿![cover](https://github.com/gabrielvoissiere/gabrielvoissiere/blob/main/assets/banniere.png)
 
 ##  👋 Qui suis-je ? 
 Titulaire d'un Bac STI2D, je suis maintenant étudiant en Bachelord 
