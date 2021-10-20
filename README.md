@@ -20,7 +20,7 @@ HTML - CSS/SCSS - JavaScript - Vue JS - Node JS - SQL
   
 ## 📢 Me contacter
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge)](https://www.linkedin.com/in/gabriel-voissiere-23663b1b8)
-[![Sitepro](https://img.shields.io/badge/-Malt-orange?style=for-the-badge)](https://gabrielvoissiere.github.io/website/)
-[![Sitepro](https://img.shields.io/badge/-Fiver-green?style=for-the-badge)](https://fr.fiverr.com/gabriel_voi)
+[![Malt](https://img.shields.io/badge/-Malt-orange?style=for-the-badge)](https://www.malt.fr/profile/gabrielvoissiere)
+[![Fiverr](https://img.shields.io/badge/-Fiver-green?style=for-the-badge)](https://fr.fiverr.com/gabriel_voi)
 [![Sitepro](https://img.shields.io/badge/-Site%20pro-lightgrey?style=for-the-badge)](https://gabrielvoissiere.github.io/website/)
 [![Email](https://img.shields.io/badge/Email-red.svg?&style=for-the-badge)](mailto:gabvoissiere@yahoo.fr)
