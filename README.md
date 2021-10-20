@@ -1,20 +1,26 @@
 ﻿![cover](https://github.com/gabrielvoissiere/gabrielvoissiere/blob/main/assets/banniere.png)
 
-##  👋 Qui suis-je ? 
-Titulaire d'un Bac STI2D, je suis maintenant étudiant en Bachelord 
-Chef de projet digital mais aussi en formation de développeur web.
 
- Ici, vous pouvez avoir acces à tous mes projets, du plus simple au plus complexe. Alors pourquoi ne pas commencer avec <a href="https://gabrielvoissiere.github.io/CV_PORTFOLIO/">mon cv</a> ?
+# Qui suis-je ? 👋
 
----
+Titulaire d'un Bac STI2D, je suis maintenant développeur freelance.
 
+  
+## 🚀 A propos de moi
+💻 Passionné par le monde du web et son développement depuis le lycée, j'en ai fait mon passe-temps, jusqu’à l'obtention de mon bac, qui m'a permis d'entamer des études supérieures dans ce domaine.
 
+📝 Étant de nature à rechercher en permanence le résultat optimum dans chacun de mes projets, j'ai continué, en plus de mon Bachelor chef de projet digital, à me former en autodidacte.
 
-## 📢 Contact
+🚗 En premiers lieux développeur front, je voulais rendre mes sites plus complets, j'ai alors élargie mon champ de compétence afin de concevoir des sites de A à Z.
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-voissiere-23663b1b8)
-[![Linkedin Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo)](https://www.facebook.com/gabriel.voissiere.7/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-yellow.svg?&style=for-the-badge)](https://gabrielvoissiere.github.io/cv/)
+  
+## 🛠 Compétences
+HTML - CSS/SCSS - JavaScript - Vue JS - Node JS - SQL
+
+  
+## 📢 Me contacter
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge)](https://www.linkedin.com/in/gabriel-voissiere-23663b1b8)
+[![Sitepro](https://img.shields.io/badge/-Malt-orange?style=for-the-badge)](https://gabrielvoissiere.github.io/website/)
+[![Sitepro](https://img.shields.io/badge/-Fiver-green?style=for-the-badge)](https://fr.fiverr.com/gabriel_voi)
+[![Sitepro](https://img.shields.io/badge/-Site%20pro-lightgrey?style=for-the-badge)](https://gabrielvoissiere.github.io/website/)
 [![Email](https://img.shields.io/badge/Email-red.svg?&style=for-the-badge)](mailto:gabvoissiere@yahoo.fr)
-
-<!-- fin de readme -->
