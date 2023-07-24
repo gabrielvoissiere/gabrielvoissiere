@@ -3,7 +3,7 @@
 
 # Qui suis-je ? 👋
 
-Titulaire d'un Bac STI2D, je suis maintenant développeur freelance.
+Titulaire d'un Bac STI2D, et bientot d'un bachelor Chef de projet digital, je suis un développeur passioné par son métier.
 
   
 ## 🚀 A propos de moi
@@ -15,7 +15,7 @@ Titulaire d'un Bac STI2D, je suis maintenant développeur freelance.
 
   
 ## 🛠 Compétences
-HTML - CSS/SCSS - JavaScript - Vue JS - Node JS - SQL
+HTML - CSS/SCSS - JavaScript - React JS - Node JS
 
   
 ## 📢 Me contacter
