@@ -3,7 +3,7 @@
 
 # Qui suis-je ? 👋
 
-Titulaire d'un Bac STI2D, et bientot d'un bachelor Chef de projet digital, je suis un développeur passioné par son métier.
+Titulaire d'un Bac STI2D, et d'un bachelor Chef de projet digital, je suis un développeur passioné par son métier.
 
   
 ## 🚀 A propos de moi
@@ -15,12 +15,9 @@ Titulaire d'un Bac STI2D, et bientot d'un bachelor Chef de projet digital, je su
 
   
 ## 🛠 Compétences
-HTML - CSS/SCSS - JavaScript - React JS - Node JS
+HTML - CSS/SCSS - JavaScript - React JS / Next.js - Node JS
 
   
 ## 📢 Me contacter
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge)](https://www.linkedin.com/in/gabriel-voissiere-23663b1b8)
-[![Malt](https://img.shields.io/badge/-Malt-orange?style=for-the-badge)](https://www.malt.fr/profile/gabrielvoissiere)
-[![Fiverr](https://img.shields.io/badge/-Fiver-green?style=for-the-badge)](https://fr.fiverr.com/gabriel_voi)
-[![Sitepro](https://img.shields.io/badge/-Site%20pro-lightgrey?style=for-the-badge)](https://gabrielvoissiere.github.io/website/)
 [![Email](https://img.shields.io/badge/Email-red.svg?&style=for-the-badge)](mailto:gabvoissiere.pro@yahoo.com)
