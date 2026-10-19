@@ -6,13 +6,15 @@ Based in Orange, France. I like building useful interfaces, breaking them down i
 
 ## Currently building: Résaloc 🛠️
 
-My personal **rental management SaaS project**, started on **3 August 2025** and now at **V2**.
+My personal **rental management SaaS project**, started on **3 August 2025**. I'm currently working on **V2**.
 
 The project brings together properties, tenants, contracts, documents, finances and rental tracking. My frontend work includes:
 
 - Building and refactoring React / Next.js interfaces.
 - Creating reusable components and hooks.
 - Reorganising internationalisation and translation handling.
+
+🌐 **[Explore Résaloc](https://resaloc-app.com)**
 
 ## A bit of background
 
