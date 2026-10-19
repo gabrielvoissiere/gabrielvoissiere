@@ -1,23 +1,33 @@
-﻿![cover](https://github.com/gabrielvoissiere/gabrielvoissiere/blob/main/assets/banniere.png)
+# Hey, I'm Gabriel 👋
 
+**Frontend developer working with React, Next.js, JavaScript and Sass.**
 
-# Qui suis-je ? 👋
+Based in Orange, France. I like building useful interfaces, breaking them down into reusable components, and making the code easier to work with along the way.
 
-Titulaire d'un Bac STI2D, et d'un bachelor Chef de projet digital, je suis un développeur passioné par son métier.
+## Currently building: Résaloc 🛠️
 
-  
-## 🚀 A propos de moi
-💻 Passionné par le monde du web et son développement depuis le lycée, j'en ai fait mon passe-temps, jusqu’à l'obtention de mon bac, qui m'a permis d'entamer des études supérieures dans ce domaine.
+My personal **rental management SaaS project**, started on **3 August 2025** and now at **V2**.
 
-📝 Étant de nature à rechercher en permanence le résultat optimum dans chacun de mes projets, j'ai continué, en plus de mon Bachelor chef de projet digital, à me former en autodidacte.
+The project brings together properties, tenants, contracts, documents, finances and rental tracking. My frontend work includes:
 
-🚗 En premiers lieux développeur front, je voulais rendre mes sites plus complets, j'ai alors élargie mon champ de compétence afin de concevoir des sites de A à Z.
+- Building and refactoring React / Next.js interfaces.
+- Creating reusable components and hooks.
+- Reorganising internationalisation and translation handling.
 
-  
-## 🛠 Compétences
-HTML - CSS/SCSS - JavaScript - React JS / Next.js - Node JS
+## A bit of background
 
-  
-## 📢 Me contacter
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge)](https://www.linkedin.com/in/gabriel-voissiere-23663b1b8)
-[![Email](https://img.shields.io/badge/Email-red.svg?&style=for-the-badge)](mailto:gabvoissiere.pro@yahoo.com)
+I was responsible for frontend development with **React and Sass at Corellis** during a work-study placement.
+
+I currently work in aircraft maintenance with the **French Air and Space Force**, and keep developing Résaloc alongside that role. I'm looking to make frontend development my main professional activity.
+
+## My toolbox
+
+React · Next.js · JavaScript · HTML · CSS / Sass · REST APIs · Git / GitHub
+
+## Let's talk 💬
+
+Open to **frontend opportunities across Europe** — on-site, hybrid or remote.
+
+French: native · English: **B2, assessed through TOEIC**.
+
+[Find me on LinkedIn](https://www.linkedin.com/in/gabriel-voissiere/)
